@@ -1,0 +1,4 @@
+AllCops:
+  Exclude:
+    # Protoc generated Ruby files
+    - lib/**/*_pb.rb
